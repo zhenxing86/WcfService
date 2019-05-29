@@ -1,0 +1,5 @@
+D:\DemoProjects\WcfService\WcfServiceIIS\bin\WcfServiceIIS.dll
+D:\DemoProjects\WcfService\WcfServiceIIS\bin\WcfServiceIIS.pdb
+D:\DemoProjects\WcfService\WcfServiceIIS\obj\Debug\WcfServiceIIS.dll
+D:\DemoProjects\WcfService\WcfServiceIIS\obj\Debug\WcfServiceIIS.pdb
+D:\DemoProjects\WcfService\WcfServiceIIS\obj\Debug\WcfServiceIIS.csprojResolveAssemblyReference.cache

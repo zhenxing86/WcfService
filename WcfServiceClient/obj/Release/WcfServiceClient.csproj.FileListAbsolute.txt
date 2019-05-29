@@ -1,0 +1,5 @@
+D:\DemoProjects\WcfService\WcfServiceClient\bin\Release\WcfServiceClient.exe.config
+D:\DemoProjects\WcfService\WcfServiceClient\bin\Release\WcfServiceClient.exe
+D:\DemoProjects\WcfService\WcfServiceClient\bin\Release\WcfServiceClient.pdb
+D:\DemoProjects\WcfService\WcfServiceClient\obj\Release\WcfServiceClient.exe
+D:\DemoProjects\WcfService\WcfServiceClient\obj\Release\WcfServiceClient.pdb
