@@ -1,8 +1,0 @@
-D:\DemoProjects\WcfService\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
-D:\DemoProjects\WcfService\WcfServiceHost\bin\Debug\WcfServiceHost.exe
-D:\DemoProjects\WcfService\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
-D:\DemoProjects\WcfService\WcfServiceHost\obj\Debug\WcfServiceHost.exe
-D:\DemoProjects\WcfService\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
-D:\DemoProjects\WcfService\WcfServiceHost\bin\Debug\WcfService.pdb
-D:\DemoProjects\WcfService\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
-D:\DemoProjects\WcfService\WcfServiceHost\bin\Debug\WcfService.exe
